@@ -5,7 +5,7 @@ Circular Doubly Linked List Library in C++
 
 Class Documentation
 --------------
-CircularList Class Reference[b]
+CircularList Class Reference
 
 The CircularList class is a class of objects stored in a circular doubly linked list.  
 It can be used to dynamically link objects together of an Abstract Data Type.
