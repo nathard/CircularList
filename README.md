@@ -3,17 +3,14 @@ CircularList
 
 Circular Doubly Linked List Library in C++
 
-Table of Contents
-
-Class List
-Here are the classes, structs, unions and interfaces with brief descriptions:
-CircularList    3/4
-node  	4/5
-
 Class Documentation
+
 CircularList Class Reference
+
 The CircularList class is a class of objects stored in a circular doubly linked list. 
-It can be used to dynamically link objects together of an ADT; meaning you can store data of any type in the list. Methods to insert and retrieve data are provided to demonstrate its use.
+It can be used to dynamically link objects together of an ADT; meaning you can store data of any type in the list. 
+Methods to insert and retrieve data are provided to demonstrate its use.
+
 Public Member Functions
 •	•	CircularList (Type emptyValue)
 Description: Creates a circular linked list of objects and accepts a value to return when the list is empty.
