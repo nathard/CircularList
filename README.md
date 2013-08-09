@@ -1,4 +1,4 @@
-CircularList
+Circular List Library
 ============
 
 Circular Doubly Linked List Library in C++
