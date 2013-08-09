@@ -2,7 +2,7 @@ CircularList
 ============
 
 Circular Doubly Linked List Library in C++
-
+------------
 Class Documentation
 
 CircularList Class Reference
@@ -68,14 +68,10 @@ Example:
 CL->~ CircularList();
 Output: List De-allocated.
 
-
-
-The documentation for this class was generated from the following files:
-•	•	CircularList.h
-•	•	CircularList.cpp
-
 node Struct Reference
-The node struct contains the values required to construct a list of nodes. The struct is declared as an ADT so you can store any type of node in your lists.
+
+The node struct contains the values required to construct a list of nodes. 
+The struct is declared as an ADT so you can store any type of node in your lists.
 
 Usage: 
 node<Type> *nodeName;
