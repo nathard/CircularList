@@ -7,8 +7,8 @@ Class Documentation
 --------------
 CircularList Class Reference
 
-The CircularList class is a class of objects stored in a circular doubly linked list. 
-It can be used to dynamically link objects together of an ADT; meaning you can store data of any type in the list. 
+The CircularList class is a class of objects stored in a circular doubly linked list.  
+It can be used to dynamically link objects together of an Abstract Data Type.  
 Methods to insert and retrieve data are provided to demonstrate its use.
 
 Public Member Functions
